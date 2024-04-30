@@ -2,6 +2,8 @@
 
 Zoom Clone that works on Android & iOS! 
 
+![My Image](assets/images/zoomClone.png)
+
 ## Features
 1. Google Sign In
 2. Create New Meeting
